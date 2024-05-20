@@ -294,6 +294,12 @@ __pycache__/
 # Icon must end with two \r
 Icon
 
+# SQLite database files
+permissions.db
+permissions.db-shm
+permissions.db-wal
+
+
 
 # Thumbnails
 ._*
